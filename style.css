@@ -1,0 +1,41 @@
+body{
+   background: linear-gradient(to right, rgb(90, 86, 86), rgb(43, 43, 223),rgb(105, 42, 206))
+}
+.form1{
+    color: royalblue;
+    text-shadow: rgb(14, 13, 13) 2px 1px 2px ;
+    font-size: x-large;
+}
+.form1 h3{
+    color: black;
+    text-shadow: wheat 2px 1px 2px;
+    font-size: medium;
+    
+}
+input{
+    font-size: large;
+    width: 70%;
+    margin: 5% auto;
+    margin-bottom: 8%;
+    height: 20px;
+    border: none;
+    outline: none;
+    background: transparent;
+    color: rgb(230, 230, 243);
+    border-bottom: 1px solid rgb(168, 158, 158);
+}
+.form2{
+    font-size: large;
+    width: 10%;
+    display: inline block;
+
+}
+h1{
+    display: inline-flexbox;
+
+}
+button{
+    background-color: tomato;
+    font-size: xx-large;
+    text-align: center;
+}
